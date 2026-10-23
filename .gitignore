@@ -1,0 +1,16 @@
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+.utmp/
+*BurstDebugInformation*
+*BackUpThisFolder*
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
